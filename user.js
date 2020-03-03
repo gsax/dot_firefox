@@ -89,3 +89,4 @@ user_pref("browser.display.background_color", "#000000");
 
 user_pref("network.trr.mode", 5);
 user_pref("browser.urlbar.trimURLs", false);
+user_pref("extensions.pocket.enabled", false);
