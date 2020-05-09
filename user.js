@@ -91,5 +91,5 @@ user_pref("extensions.pocket.enabled", false);
 
 user_pref("permissions.default.geo", 2);
 user_pref("permissions.default.camera", 2);
-user_pref("permissions.default.microphone", 0);
+user_pref("permissions.default.microphone", 2);
 user_pref("permissions.default.desktop-notification", 2);
