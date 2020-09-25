@@ -93,3 +93,5 @@ user_pref("permissions.default.geo", 2);
 user_pref("permissions.default.camera", 2);
 user_pref("permissions.default.microphone", 2);
 user_pref("permissions.default.desktop-notification", 2);
+
+user_pref("full-screen-api.warning.timeout", 500);
