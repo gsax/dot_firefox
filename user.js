@@ -81,8 +81,10 @@ user_pref("toolkit.telemetry.reportingpolicy.firstRun", false);
 user_pref("trailhead.extendedTriplets.experiment", "control");
 user_pref("trailhead.firstrun.didSeeAboutWelcome", true);
 user_pref("trailhead.firstrun.interruptsExperiment", "full_page_e");
-user_pref("browser.display.background_color", "#000000");
 
+
+user_pref("browser.display.foreground_color", "#333333");
+user_pref("browser.display.background_color", "#cccccc");
 
 user_pref("network.trr.mode", 5);
 user_pref("browser.download.forbid_open_with", true);
